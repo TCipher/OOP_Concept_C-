@@ -1,0 +1,9 @@
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Acme.Common.dll
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Acme.Common.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\ACM.BL.dll
+C:\Users\user\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\ACM.BL.pdb

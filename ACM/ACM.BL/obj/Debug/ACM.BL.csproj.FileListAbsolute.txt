@@ -1,0 +1,7 @@
+C:\Users\user\documents\visual studio 2015\Projects\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\user\documents\visual studio 2015\Projects\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\user\documents\visual studio 2015\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\user\documents\visual studio 2015\Projects\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
